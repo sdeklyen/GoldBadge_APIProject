@@ -1,0 +1,90 @@
+.catbody {
+    width: 200px;
+    height: 200px;
+    border: solid 2px black;
+    background-color: orange;
+    border-radius: 75px 200px 75px 50px;
+}
+.wrapper {
+    margin: 100px;
+}
+.cathead {
+    width: 100px;
+    height: 100px;
+    border: solid 1px black;
+    background-color: orange;
+    border-radius: 50px;
+    position: relative;
+    left: -15px;
+    top: -280px;
+}
+.cateye {
+    width: 20px;
+    height: 30px;
+    border: solid 1px lightgreen;
+    background-color: lightgreen;
+    border-radius: 10px;
+    position: relative;
+    left: 5px;
+    top: 20px;
+}
+#innereye {
+    width: 10px;
+    height: 15px;
+    border: solid 1px black;
+    background-color: black;
+    border-radius: 10px;
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+.catEyeLid {
+    width: 1em;
+    height: 1em;
+    border-left: 9px solid transparent;
+    border-right: 9px solid transparent;
+    border-bottom: 18px solid orange;
+    position: relative;
+    left: 5px;
+    top: -40px;
+}
+.catEar {
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 40px solid orange;
+    position: relative;
+    left: 27px;
+    top: -90px;
+}
+.frontFoot {
+width: 30px;
+height: 30px;
+border: solid 1px grey;
+border-radius: 30px;
+background-color: white;
+position: relative;
+left: 5px;
+top: 145px;
+}
+.backFoot {
+    width: 30px;
+    height: 30px;
+    border: solid 1px grey;
+    border-radius: 30px;
+    background-color: white;
+    position: relative;
+    left: 100px;
+    top: 115px;
+}
+.tail {
+    width: 250px;
+    height: 30px;
+    border: solid 2px black;
+    border-radius: 10px;
+    background-color: orange;
+    position: relative;
+    left: 170px;
+    top: -150px;
+}

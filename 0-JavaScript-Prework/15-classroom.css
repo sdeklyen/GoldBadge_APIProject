@@ -1,0 +1,9 @@
+.lynch-table {
+    border: 3px solid black;
+    background-color: lightskyblue;
+    text-align: center;
+}
+
+.title {
+    font-style: italic
+}
