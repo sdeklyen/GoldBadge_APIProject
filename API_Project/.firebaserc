@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "jsaug2019-nba-player-database"
+    "default": "jsaug2019-nba-player-database",
+    "jsaug2019-nba-player-database": "jsaug2019-nba-player-database"
   }
 }
